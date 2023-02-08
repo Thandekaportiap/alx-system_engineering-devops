@@ -1,6 +1,6 @@
 #!/bin/bash
-mkdir /tmp /my_first_directory
+mkdir
 
 #!/bin/bash
-mkdir /tmp/my_fist_directory
+mkdir
 
